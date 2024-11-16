@@ -9,7 +9,7 @@
 global.prefa = ['','!','.',',','🐤','🗿']
 global.owner = ['254763023036']
 global.ownMain = '254763023036'
-global.NamaOwner = '𝗠𝗥 𝗗𝗢𝗚' //
+global.NamaOwner = 'Č_ĶÄÝ' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = '𝙎𝙋𝙄𝘿𝙀𝙍 - 𝙑9' //
